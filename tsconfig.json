@@ -1,0 +1,18 @@
+{ 
+    "compilerOptions": {
+        "target": "es6",
+        "module": "es6",
+        "moduleResolution": "node",
+        "alwaysStrict": false,
+        "experimentalDecorators": false,
+        "sourceMap": false,
+        "strictBindCallApply": false,
+        "noImplicitAny": false,
+        "strictNullChecks": false,
+        "noImplicitReturns": false,
+        "noImplicitThis": false,
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+}
